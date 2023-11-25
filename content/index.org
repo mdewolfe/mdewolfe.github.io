@@ -1,0 +1,9 @@
+#+TITLE: index
+#+AUTHOR: Mike D
+
+* Hello, World!
+
+#+BEGIN_QUOTE
+Life is just like that sometimes, you're hoping for a unicorn ... and you get a goat!
+-- Felonius Gru
+#+END_QUOTE
